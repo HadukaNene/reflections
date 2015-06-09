@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 	Git creates a metadata file .git which is used to track changes. This sets
 	the ball rolling for git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It is different from the WD because the files in it have been added to be 
+	tracked by git. Different from a repo because the files are still to be
+	added to a commit. Acts as a waiting area
