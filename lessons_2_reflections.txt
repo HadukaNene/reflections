@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Git creates a metadata file .git which is used to track changes. This sets
+	the ball rolling for git.
