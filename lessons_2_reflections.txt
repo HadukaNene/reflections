@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	Helps me see the parent of each commit and the branches they are connected to
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pros: Tells you were conflicts exist
+	Cons: 
