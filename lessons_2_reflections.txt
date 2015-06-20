@@ -13,3 +13,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	By each commit having its own label(branch) it will be easy to find a particular
 	update that I made. Branches examples fix,exp,update,other version
+
+How do the diagrams help you visualize the branch structure?
+	Helps me see the parent of each commit and the branches they are connected to
